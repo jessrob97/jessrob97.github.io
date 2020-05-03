@@ -1,0 +1,19 @@
+#content {
+    display: flex;
+}
+
+#left {}
+
+#left img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -125px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+#right {
+    margin-top: 20px;
+    margin-left: 100px;
+}

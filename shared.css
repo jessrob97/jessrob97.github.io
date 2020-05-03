@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    text-align: center;
+    min-width: 651px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 200;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 200;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+/* HEADER - shared */
+
+header {
+    padding: 6px 0px 6px 0px;
+    background-image: url("images/network.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+
+header #spacing {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 2;
+}
+
+header h1 {
+    color: white;
+    margin: 0;
+    grid-column-start: 1;
+    grid-row-start: 1;
+}
+
+header nav {
+    grid-column-start: 2;
+    grid-row-start: 1;
+    justify-self: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav li {
+    float: left;
+}
+
+header nav a {
+    padding: 0.5rem 1.5rem;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+header nav a:hover {}
+
+header nav .active {
+    border-bottom: white 2px solid;
+}
+
+/* HEADER - landing */
+
+header.landing {
+    height: 383px;
+    min-height: 383px;
+}
+
+header.landing #spacing {
+    height: 300px;
+}
+
+/* HEADER - content */
+
+header.content {
+    height: 83px;
+    max-height: 83px;
+}
+
+header.content #spacing {
+    height: 0;
+}
+
+/* HEADER - small */
+
+@media screen and (max-width: 1006px) {
+    header {
+        padding-left: 40px;
+    }
+
+    header.landing {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    header.landing #spacing {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 3;
+    }
+
+    header.landing h1 {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        justify-self: start;
+    }
+
+    header.landing nav {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 2;
+        justify-self: start;
+    }
+
+    header.content {
+        grid-template-columns: 1fr;
+    }
+
+    header.content #spacing {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 1;
+    }
+
+    header.content nav {
+        grid-column-start: 1;
+        grid-column-end: 1;
+        grid-row-start: 1;
+        justify-self: start;
+    }
+
+    header.content h1 {
+        display: none;
+    }
+}
+
+/* CONTENT */
+
+#content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: left;
+}
