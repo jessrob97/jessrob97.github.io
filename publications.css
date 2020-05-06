@@ -1,3 +1,24 @@
-#content {
-    margin-top: 30px;
+.section {
+    margin-top: 45px;
+}
+
+.title {
+    font-style: italic;
+}
+
+.publication {
+    font-weight: 400;
+}
+
+.david {
+    font-weight: 500;
+}
+
+.links {
+    font-size: 16px;
+    color: #5e6a6c;
+}
+
+.links a {
+    color: inherit;
 }

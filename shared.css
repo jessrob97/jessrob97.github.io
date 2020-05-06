@@ -5,22 +5,33 @@
 
 body {
     font-family: "Roboto", sans-serif;
-    font-weight: 200;
     text-align: center;
     min-width: 651px;
 }
 
 h1 {
-    font-size: 60px;
-    font-weight: 200;
+    font-size: 72px;
+    font-weight: 100;
 }
 
 h2 {
-    font-size: 40px;
-    font-weight: 200;
+    font-size: 60px;
+    font-weight: 100;
+    color: #304148;
+    margin-bottom: 25px;
+}
+
+h3 {
+    font-size: 32px;
+    font-weight: 100;
+    color: #304148;
+    margin-bottom: 25px;
 }
 
 p {
+    font-size: 18px;
+    font-weight: 300;
+    color: #243c3b;
     margin-bottom: 20px;
 }
 
@@ -79,75 +90,75 @@ header nav .active {
 
 /* HEADER - landing */
 
-header.landing {
+header#landing {
     height: 383px;
     min-height: 383px;
 }
 
-header.landing #spacing {
+header#landing #spacing {
     height: 300px;
 }
 
-/* HEADER - content */
+/* HEADER - internal */
 
-header.content {
+header#internal {
     height: 83px;
     max-height: 83px;
 }
 
-header.content #spacing {
+header#internal #spacing {
     height: 0;
 }
 
 /* HEADER - small */
 
-@media screen and (max-width: 1006px) {
+@media screen and (max-width: 1048px) {
     header {
         padding-left: 40px;
     }
 
-    header.landing {
+    header#landing {
         grid-template-columns: 1fr 1fr;
     }
 
-    header.landing #spacing {
+    header#landing #spacing {
         grid-column-start: 1;
         grid-column-end: 3;
         grid-row-start: 3;
     }
 
-    header.landing h1 {
+    header#landing h1 {
         grid-column-start: 1;
         grid-column-end: 3;
         grid-row-start: 1;
         justify-self: start;
     }
 
-    header.landing nav {
+    header#landing nav {
         grid-column-start: 1;
         grid-column-end: 3;
         grid-row-start: 2;
         justify-self: start;
     }
 
-    header.content {
+    header#internal {
         grid-template-columns: 1fr;
     }
 
-    header.content #spacing {
+    header#internal #spacing {
         grid-column-start: 1;
         grid-column-end: 2;
         grid-row-start: 1;
     }
 
-    header.content nav {
+    header#internal nav {
         grid-column-start: 1;
         grid-column-end: 1;
         grid-row-start: 1;
         justify-self: start;
     }
 
-    header.content h1 {
+    header#internal h1 {
         display: none;
     }
 }
