@@ -2,8 +2,10 @@
     display: flex;
 }
 
-#left {
-    text-align: center;
+#left {}
+
+#left a {
+    color: inherit;
 }
 
 #left img {
@@ -15,6 +17,10 @@
     width: 300px;
     height: 300px;
     border-radius: 50%;
+}
+
+#left #email {
+    margin-bottom: 10px;
 }
 
 #right {
