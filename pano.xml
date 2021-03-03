@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.11" apprev="18043">
+  <panorama id="node1">
+    <input levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2263" width="2263" levelbias="0.400" levelingroll="0" overlap="1">
+      <level preload="0" predecode="0" height="2263" width="2263"/>
+      <level preload="0" predecode="0" height="1131" width="1131"/>
+      <level preload="0" predecode="0" height="565" width="565"/>
+      <level preload="1" predecode="1" height="282" width="282"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-93.2365" fovmode="0">
+      <start projection="4" pan="-3.69292" fov="70" tilt="3.81439"/>
+      <flyin projection="4" pan="-1.78" fov="63.27" tilt="2.61"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" comment="" description="" copyright="" source="" info="" author="" datetime="2/20/21 3:11 PM" tags="node6" latitude="40.52476480" nodeid="node1" heading="-93.2365" title="The Draper School" longitude="-111.86513722"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" background="1" backgroundcolor="0xffffff" borderalpha="1" height="20" bordercolor="0x000000" width="180" textalpha="1" enabled="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot distance="5.45974" target="104.8/12.6/70.0" url="{node2}" pan="-17.28" description="" id="Point01" skinid="ht_node" tilt="3.8" title="Move Here"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomafterinfov="90" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomfov="20" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" contextprojections="0" lockedmouse="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2264" width="2264" levelbias="0.400" levelingroll="0" overlap="1">
+      <level preload="0" predecode="0" height="2264" width="2264"/>
+      <level preload="0" predecode="0" height="1132" width="1132"/>
+      <level preload="0" predecode="0" height="566" width="566"/>
+      <level preload="1" predecode="1" height="283" width="283"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-171.367" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" comment="" description="" copyright="" source="" info="" author="-" datetime="" tags="node5" latitude="40.52479742" nodeid="node2" heading="-171.367" title="The Draper School" longitude="-111.86518550"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" background="1" backgroundcolor="0xffffff" borderalpha="1" height="20" bordercolor="0x000000" width="180" textalpha="1" enabled="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot distance="3.73917" target="-66.1/-6.6/70.0" url="{node3}" pan="-258.66" description="" id="Point01" skinid="ht_node" tilt="11.85" title=""/>
+      <hotspot distance="5.45974" target="173.4/-13.4/70.0" url="{node1}" pan="-277.41" description="" id="Point02" skinid="ht_node" tilt="-17.21" title=""/>
+      <hotspot target="" url="images/typewritter.jpg" pan="-42.21" description="" id="Point03" skinid="ht_image" tilt="-9.9" title="Typewritter"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomafterinfov="90" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomfov="20" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" contextprojections="0" lockedmouse="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2286" width="2286" levelbias="0.400" levelingroll="0" overlap="1">
+      <level preload="0" predecode="0" height="2286" width="2286"/>
+      <level preload="0" predecode="0" height="1143" width="1143"/>
+      <level preload="0" predecode="0" height="571" width="571"/>
+      <level preload="1" predecode="1" height="285" width="285"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-214.1" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" comment="" description="" copyright="" source="" info="" author="-" datetime="" tags="node4" latitude="40.52480557" nodeid="node3" heading="-214.1" title="The Draper School" longitude="-111.86514258"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" background="1" backgroundcolor="0xffffff" borderalpha="1" height="20" bordercolor="0x000000" width="180" textalpha="1" enabled="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot distance="4.88383" target="6.0/-9.6/70.0" url="{node4}" pan="-104.34" description="" id="Point01" skinid="ht_node" tilt="8.73" title=""/>
+      <hotspot distance="3.73917" target="-86.4/-6.7/70.0" url="{node2}" pan="-126.94" description="" id="Point02" skinid="ht_node" tilt="-23.59" title=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomafterinfov="90" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomfov="20" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" contextprojections="0" lockedmouse="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2266" width="2266" levelbias="0.400" levelingroll="0" overlap="1">
+      <level preload="0" predecode="0" height="2266" width="2266"/>
+      <level preload="0" predecode="0" height="1133" width="1133"/>
+      <level preload="0" predecode="0" height="566" width="566"/>
+      <level preload="1" predecode="1" height="283" width="283"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" comment="" description="" copyright="" source="" info="" author="-" datetime="" tags="node3" latitude="40.52478926" nodeid="node4" heading="0" title="The Draper School" longitude="-111.86519623"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" background="1" backgroundcolor="0xffffff" borderalpha="1" height="20" bordercolor="0x000000" width="180" textalpha="1" enabled="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot distance="6.58976" target="-93.4/-0.3/70.0" url="{node5}" pan="-269.35" description="" id="Point01" skinid="ht_node" tilt="-5.24" title=""/>
+      <hotspot distance="4.88383" target="-124.6/-20.5/70.0" url="{node3}" pan="-65.73" description="" id="Point02" skinid="ht_node" tilt="-29" title=""/>
+      <hotspot target="" url="images/desk.jpg" pan="-1.38" description="" id="Point03" skinid="ht_image" tilt="-20.69" title="Desks"/>
+      <hotspot target="" url="images/office.jpg" pan="-114.9" description="" id="Point04" skinid="ht_image" tilt="11.83" title="office"/>
+    </hotspots>
+    <media>
+      <video fov="22.440" field="90.000" loop="1" width="100" ambientlevel="0.100" height="100" nodechangekeep="0" rotx="0.000" roty="0.000" tilt="4.310" startmutedmobile="0" tiltsize="10.000" clickmode="2" pansize="10.000" id="Element01" level="1.000" rotz="0.000" pan="-356.700" handcursor="0" mode="3" stretch="1.000">
+        <source url="media/school_vid.mov"/>
+      </video>
+    </media>
+    <transition blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomafterinfov="90" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomfov="20" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" contextprojections="0" lockedmouse="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2266" width="2266" levelbias="0.400" levelingroll="0" overlap="1">
+      <level preload="0" predecode="0" height="2266" width="2266"/>
+      <level preload="0" predecode="0" height="1133" width="1133"/>
+      <level preload="0" predecode="0" height="566" width="566"/>
+      <level preload="1" predecode="1" height="283" width="283"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-180.785" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" comment="" description="" copyright="" source="" info="" author="-" datetime="" tags="node2" latitude="40.52479334" nodeid="node5" heading="-180.785" title="The Draper School" longitude="-111.86527401"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" background="1" backgroundcolor="0xffffff" borderalpha="1" height="20" bordercolor="0x000000" width="180" textalpha="1" enabled="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot distance="4.01731" target="-42.1/-14.5/70.0" url="{node6}" pan="-93.32" description="" id="Point01" skinid="ht_node" tilt="-3.44" title=""/>
+      <hotspot distance="6.58976" target="-87.4/-20.1/70.0" url="{node4}" pan="-279.23" description="" id="Point02" skinid="ht_node" tilt="-7.73" title=""/>
+      <hotspot target="" url="images/floor.jpg" pan="-93.56" description="" id="Point03" skinid="ht_image" tilt="-14.07" title="floor"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomafterinfov="90" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomfov="20" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" contextprojections="0" lockedmouse="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2266" width="2266" levelbias="0.400" levelingroll="0" overlap="1">
+      <level preload="0" predecode="0" height="2266" width="2266"/>
+      <level preload="0" predecode="0" height="1133" width="1133"/>
+      <level preload="0" predecode="0" height="566" width="566"/>
+      <level preload="1" predecode="1" height="283" width="283"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-266.075" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" comment="" description="" copyright="" source="" info="" author="-" datetime="" tags="node1" latitude="40.52480353" nodeid="node6" heading="-266.075" title="The Draper School" longitude="-111.86531961"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" background="1" backgroundcolor="0xffffff" borderalpha="1" height="20" bordercolor="0x000000" width="180" textalpha="1" enabled="1" textcolor="0x000000" border="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot distance="4.01731" target="81.4/-6.5/70.0" url="{node5}" pan="-355.39" description="" id="Point01" skinid="ht_node" tilt="-4.39" title=""/>
+      <hotspot target="" url="images/fountain.jpg" pan="-36.4" description="" id="Point02" skinid="ht_image" tilt="-14.56" title=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomafterinfov="90" zoomin="0" blendcolor="0x000000" zoomspeed="2" zoomfov="20" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" contextprojections="0" lockedmouse="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata customnodeid="" comment="" description="" copyright="" source="" info="" author="" datetime="" tags="" latitude="" nodeid="master" heading="0" title="" longitude=""/>
+  </masternode>
+</tour>
