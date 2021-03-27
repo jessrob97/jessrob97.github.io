@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.11" apprev="18043" id="node1">
+  <input levelingpitch="0" width="2262" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" height="2262" overlap="1" levelbiashidpi="1.000">
+    <level width="2262" predecode="0" height="2262" preload="0"/>
+    <level width="1131" predecode="0" height="1131" preload="0"/>
+    <level width="565" predecode="0" height="565" preload="0"/>
+    <level width="282" predecode="1" height="282" preload="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start fov="70" tilt="0" pan="0" projection="4"/>
+    <flyin fov="170" tilt="-90" pan="0" projection="4"/>
+    <min tilt="-90" fovpixel="3.1" pan="0"/>
+    <max fov="120" tilt="90" pan="360" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+  </view>
+  <userdata description="" copyright="" latitude="" comment="" heading="0" source="" longitude="" nodeid="node1" info="" datetime="" customnodeid="" tags="Desktop" title="" author="-"/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label textcolor="0x000000" width="180" backgroundcolor="0xffffff" backgroundalpha="1" border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" borderradius="1" height="20" background="1" wordwrap="1"/>
+    <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+    <hotspot description="" tilt="-7.83" target="" pan="-1.5" url="images/hidden-valley.jpg" id="Point01" skinid="ht_image" title="Hidden Valley Nature Trail"/>
+  </hotspots>
+  <media>
+    <sound tiltsize="10.000" tilt="-8.890" nodechangekeep="0" field="90.000" pan="-300.570" startmutedmobile="0" level="1.000" id="Element01" loop="10" pansize="10.000" mode="3" ambientlevel="0.000">
+      <source url="media/Blastwave_FX_RattlesnakeShakeTail_BWU.58.mp3"/>
+    </sound>
+  </media>
+  <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" zoomfov="20" zoomout="0" zoomafteroutfov="20" zoomin="0" zoomoutpause="1"/>
+  <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+  <control lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextprojections="0" lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" speedwheel="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1"/>
+</panorama>
