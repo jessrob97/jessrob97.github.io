@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" apprev="18043" appversion="6.1.11">
+  <input leveltilesize="510" width="2263" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="2263" levelingpitch="0">
+    <level width="2263" preload="0" predecode="0" height="2263"/>
+    <level width="1131" preload="0" predecode="0" height="1131"/>
+    <level width="565" preload="0" predecode="0" height="565"/>
+    <level width="282" preload="1" predecode="1" height="282"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start pan="109" tilt="0" projection="4" fov="70"/>
+    <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="120" fovstereographic="270"/>
+  </view>
+  <userdata source="" author="-" info="" comment="" customnodeid="" description="" latitude="" title="" datetime="" copyright="" tags="Desktop" nodeid="node1" longitude="" heading="0"/>
+  <hotspots width="180" wordwrap="1" height="20">
+    <label enabled="1" width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" textalpha="1" background="1" borderalpha="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" borderradius="1" height="20"/>
+    <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    <hotspot pan="-258.83" id="Point01" target="" description="" tilt="0.13" title="" url="images/Untitled-3.png" skinid="ht_image"/>
+  </hotspots>
+  <media>
+    <sound pan="-298.440" level="1.000" loop="2" id="Element01" pansize="10.000" tiltsize="10.000" tilt="-3.700" nodechangekeep="0" field="90.000" startmutedmobile="0" mode="3" ambientlevel="0.000">
+      <source url="media/aaj_0051_BrdsChrp_03_SFX.mp3"/>
+    </sound>
+  </media>
+  <transition enabled="1" softedge="0" blendtime="1" zoomout="0" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="2" blendcolor="0x000000"/>
+  <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+  <control lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" invertwheel="0" lockedmouse="0" sensitivity="8" contextprojections="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedwheel="0"/>
+</panorama>
