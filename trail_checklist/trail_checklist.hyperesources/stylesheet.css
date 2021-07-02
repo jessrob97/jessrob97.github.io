@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'NPSRawlinsonOTOld';
+    src: url('NPSRawlinsonOTOld-Bold.woff2') format('woff2'),
+        url('NPSRawlinsonOTOld-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwoOld';
+    src: url('NPSRawlinsonOTOld-Medium.woff2') format('woff2'),
+        url('NPSRawlinsonOTOld-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwoOld';
+    src: url('NPSRawlinsonOTOld-HeavyItal.woff2') format('woff2'),
+        url('NPSRawlinsonOTOld-HeavyItal.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTOld';
+    src: url('NPSRawlinsonOTOld-Book.woff2') format('woff2'),
+        url('NPSRawlinsonOTOld-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwoOld';
+    src: url('NPSRawlinsonOTOld-Heavy.woff2') format('woff2'),
+        url('NPSRawlinsonOTOld-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwoOld';
+    src: url('NPSRawlinsonOTOld-MedItali.woff2') format('woff2'),
+        url('NPSRawlinsonOTOld-MedItali.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTOld';
+    src: url('NPSRawlinsonOTOld-BoldItalic.woff2') format('woff2'),
+        url('NPSRawlinsonOTOld-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwo';
+    src: url('NPSRawlinsonOT-HeavyItal.woff2') format('woff2'),
+        url('NPSRawlinsonOT-HeavyItal.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOT';
+    src: url('NPSRawlinsonOT-BoldItalic.woff2') format('woff2'),
+        url('NPSRawlinsonOT-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTOld';
+    src: url('NPSRawlinsonOTOld-BookItalic.woff2') format('woff2'),
+        url('NPSRawlinsonOTOld-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwo';
+    src: url('NPSRawlinsonOT-MedItalic.woff2') format('woff2'),
+        url('NPSRawlinsonOT-MedItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOT';
+    src: url('NPSRawlinsonOT-Bold.woff2') format('woff2'),
+        url('NPSRawlinsonOT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwo';
+    src: url('NPSRawlinsonOT-Heavy.woff2') format('woff2'),
+        url('NPSRawlinsonOT-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOT';
+    src: url('NPSRawlinsonOT-BookItalic.woff2') format('woff2'),
+        url('NPSRawlinsonOT-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwo';
+    src: url('NPSRawlinsonOT-Medium.woff2') format('woff2'),
+        url('NPSRawlinsonOT-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOT';
+    src: url('NPSRawlinsonOT-Book.woff2') format('woff2'),
+        url('NPSRawlinsonOT-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTCn';
+    src: url('NPSRawlinsonOTCond-BoldItalic.woff2') format('woff2'),
+        url('NPSRawlinsonOTCond-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTCn';
+    src: url('NPSRawlinsonOTCond-Bold.woff2') format('woff2'),
+        url('NPSRawlinsonOTCond-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTCn';
+    src: url('NPSRawlinsonOTCond-BookItalic.woff2') format('woff2'),
+        url('NPSRawlinsonOTCond-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTCn';
+    src: url('NPSRawlinsonOTCond-Book.woff2') format('woff2'),
+        url('NPSRawlinsonOTCond-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwoCn';
+    src: url('NPSRawlinsonOTCond-HeavyItalic.woff2') format('woff2'),
+        url('NPSRawlinsonOTCond-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwoCn';
+    src: url('NPSRawlinsonOTCond-Heavy.woff2') format('woff2'),
+        url('NPSRawlinsonOTCond-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwoCn';
+    src: url('NPSRawlinsonOTCond-Medium.woff2') format('woff2'),
+        url('NPSRawlinsonOTCond-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NPSRawlinsonOTTwoCn';
+    src: url('NPSRawlinsonOTCond-MediumItalic.woff2') format('woff2'),
+        url('NPSRawlinsonOTCond-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
